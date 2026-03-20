@@ -1,9 +1,9 @@
-import HeroSection from '@/components/HeroSection';
+import Presentation from '@/components/Presentation';
 
 const Index = () => {
   return (
     <main>
-      <HeroSection />
+      <Presentation />
     </main>
   );
 };
